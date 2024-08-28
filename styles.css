@@ -1,0 +1,42 @@
+.navbar .navbar-brand{
+    font-size: 52 px;
+}
+.navbar a{
+    color: whitesmoke !important;
+}
+.seccion-1{
+   
+    background-image: url(images/ia4.jpg);  
+    
+    background-repeat: no-repeat;  
+    background-size: cover;
+    background-position-y: 75%;
+}
+.seccion-2
+{
+    background-image: url(images/ia2.jpg);
+    background-repeat: no-repeat;  
+    background-size: cover;
+    background-position-y: 10%;
+}
+.textoblanco{
+    color: whitesmoke;
+}
+button{
+    border-radius: 30px !important;
+    font-size:  18x !important;
+}
+.btn-primary{
+    background-color:crimson !important;
+  border: none !important;
+}
+.btn-outline-primary{
+    border-color: aliceblue !important;
+    color: whitesmoke !important;
+}
+
+.fondo{
+    
+    color: whitesmoke;
+    background: rgba(10, 10, 20, 0.5)
+}
