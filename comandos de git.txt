@@ -1,0 +1,19 @@
+### COMANDOS DE GIT BÁSICOS ###
+
+# remember to clone the original repository to start working
+# git clone https://github.com/morek1ng/aws-project-s3web.git
+
+# navigate into the Project directory
+# cd aws-project-s3web
+
+# Stage the files you want to commit
+# git add .
+
+# Commit the changes with a message describing the change
+# git commit -m "change"
+
+# Push the changes to GitHub
+# git push origin main
+
+# To pull the changes
+# git pull origin main
